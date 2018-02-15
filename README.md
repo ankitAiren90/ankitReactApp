@@ -1,2 +1,0 @@
-# ankitReactApp
-Created with CodeSandbox
